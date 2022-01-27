@@ -1,0 +1,12 @@
+What is an html editors?
+the html element is everything  from the start tag to the end tag
+<h1> My first heading </h1>
+<p> My first Paragraph</p>
+pes of Elements:
+*the <!DOCTYPE html> declration defines that this is documentis an html document
+*the <html> element is the roote element of an html page
+*the <head> Element contains Meta information about html page
+*the<title> element specifies a title for html page
+*the <body> element defines the documents body, such as headings,paragraphs,image,hyper links,tables,lists etc.
+*<h1> element defines a large heading
+*<p. element defines a pragraph

@@ -1,0 +1,18 @@
+HTML Text Formatting:
+
+HTML contains several elements for defining text with a special meaning.
+
+HTML Formatting Elements
+Formatting elements were designed to display special types of text:
+
+<b>      - Bold text                                               :The HTML <b> element defines bold text, without any extra importance.
+<strong> - Important text                                          :The HTML <strong> element defines text with strong importance. The content inside is typically displayed in bold.
+<i>      - Italic text                                             :The HTML <i> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
+<em>     - Emphasized text                                         :The HTML <em> element defines emphasized text. The content inside is typically displayed in italic.
+<mark>   - Marked text                                             :The HTML <mark> element defines text that should be marked or highlighted:
+<small>  - Smaller text                                            :The HTML <small> element defines smaller text:
+<del>    - Deleted text                                            :The TML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
+<ins>    - Inserted text                                           :The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text:
+<sub>    - Subscript text                                          :The HTML <sub> element defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical formulas, like H2O:
+<sup>    - Superscript text                                        :The HTML <sup> element defines superscript text. Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font. Superscript text can be used for footnotes, like WWW[1]:
+

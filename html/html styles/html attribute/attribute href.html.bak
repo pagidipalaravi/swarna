@@ -1,0 +1,9 @@
+<DOCTYPE html!>
+<html>
+<body>
+The href Attribute:
+the <a> tag defines a hyper link. the href attributes specifies the url of the page the link
+Example:
+<a href="http://www.w3schools.com">visit w3 schools</a>
+</body>
+</html>
