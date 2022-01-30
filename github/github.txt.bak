@@ -23,12 +23,12 @@ such as access control and collaboration.
 It has both distributed version control and source code management (SCM) functionality of Git
 what is the diff b/w git and github?
 git is command based version system
-git is a open-source distributed version control system 
+There are many words to define git, but it is an open-source distributed version control system 
 github is gui based version system
-Using github many developers can work on a single project remotely because it facilitates collaboration.
+Using github, many developers can work on a single project remotely because it facilitates collaboration.
 Why is git needed?
-When a team works on real-life projects 
-git helps ensure no code conflicts between the developers
-the project requirements change often So a git manages all the versions. 
+When a team works on real-life projects, 
+git helps ensure no code conflicts between the developers. 
+the project requirements change often. So a git manages all the versions. 
 
 

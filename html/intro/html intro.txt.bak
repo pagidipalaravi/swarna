@@ -1,12 +1,12 @@
 Html Introduction
-What is a language?
+  what is language?
   A language is a structured system of communication used by humans.
   Languages can be based on speech and gesture (spoken language), sign, or writing.
   The structure of language is its grammar and the free components are its vocabulary
-What is marke up language?
+what is marke up language?
   A markup language is a set of rules governing what markup information may be included in a document.
   how it is combined with the content of the document in a way to facilitate use by humans and computer programs.
-What is hyper text language?
+what is hyper text language?
   HTML is the standard markup language for documents designed to be displayed in a web browser.
   HTML provides a means to create structured documents by denoting structural semantics.
   for text such as headings, paragraphs, lists, links, quotes and other items.

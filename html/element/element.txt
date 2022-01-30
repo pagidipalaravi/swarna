@@ -1,0 +1,26 @@
+What is an html editors?
+   the html element is everything  from the start tag to the end tag
+  <h1> My first heading </h1>
+  <p> My first Paragraph</p>
+  Types of Elements:
+what is the <!DOCTYPE html> ?
+  DOCTYPE html declration defines that this is documentis an html5 document
+  DOCTYPE html defines how to display the content in web page.
+  DOCTYPE html is on top of the page
+what is the <html> element?
+   html element is the roote element of an html page.
+   html is an parent tag it has child relation with other tags.
+   html tag wil not appear in between the elements.
+what is the <head> Element ?
+   head element contains Meta information about html page
+what is the <title> element ?
+   title element specifies a title for html page
+   in title element title will not be appear in web page
+what is the <body> element ?
+  body element defines the documents body, such as headings,paragraphs,image,hyper links,tables,lists etc.
+  in body element the content we write will appear in web page
+what is the <h1> to <h6> element? 
+  <h1> defines most importent heading.
+  <h6> defines least importent heading.
+what is the <p> element?
+  "p" element   defines a pragraph

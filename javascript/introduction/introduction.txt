@@ -1,0 +1,8 @@
+JavaScript Introduction:
+how JavaScript Can Change HTML Content ?
+  JavaScript Can Change HTML Content using an HTML element (with id="demo"), and changes the element content (innerHTML) to "Hello JavaScript"
+  JavaScript accepts both double and single quotes
+Example
+  document.getElementById("demo").innerHTML = "Hello JavaScript";
+how JavaScript Can Change HTML Attribute Values ?
+  JavaScript changes the value of the src (source) attribute of an <img> tag
