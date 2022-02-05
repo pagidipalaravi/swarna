@@ -1,0 +1,44 @@
+HTML Styles:
+	The HTML style attribute is used to add styles to an element, such as color, font, size, and more.
+=====
+The HTML Style Attrib:
+	Setting the style of an HTML element, can be done with the style attribute.
+	The HTML style attribute has the following syntax:
+	<tagname style="property:value;">
+	Attributes should always be applied with start tag.
+	The Attribute should always be applied with its name and value pair.
+	The Attributes name and values are case sensitive
+	You can add multiple attributes in one HTML element, but need to give space between two attributes.
+=====
+Background Color:
+	The <bgcolor> is the attribute to set the background color of an HTML element. This attribute is used with the following tags:
+	<body>
+	<table>
+	<marquee>
+	<td>
+	<th>
+	<tr>
+=====
+Text Color:
+	The CSS color property defines the text color for an HTML element
+	Example
+	<h1 style="color:blue;">This is a heading</h1>
+	<p style="color:red;">This is a paragraph.</p>
+=====
+Fonts:
+	The CSS font-family property defines the font to be used for an HTML element:
+	Example
+	<h1 style="font-family:verdana;">This is a heading</h1>
+	<p style="font-family:courier;">This is a paragraph.</p>
+=====
+Text Size:
+	The CSS font-size property defines the text size for an HTML element:
+	Example
+	<h1 style="font-size:300%;">This is a heading</h1>
+	<p style="font-size:160%;">This is a paragraph.</p>
+=====
+Text Alignment:
+	The CSS text-align property defines the horizontal text alignment for an HTML element:
+	Example
+	<h1 style="text-align:center;">Centered Heading</h1>
+	<p style="text-align:center;">Centered paragraph.</p>

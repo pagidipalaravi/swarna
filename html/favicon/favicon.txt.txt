@@ -1,0 +1,17 @@
+HTML Favicon:
+What is html favicon ?
+	A favicon is a small file containing the one or more icons which are used to represent the website or a blog.
+	It is also known as a tab icon, website icon, URL icon, or a bookmark icon.
+	This icon is actually displayed on the address bar, browser's tab, browser history, bookmark bar, etc. 
+	The image of a favicon is in .ico file format. There are various file formats, but .ico format is supported by all the browsers.
+=====
+How to insert the Favicon in HTML file ?
+	Following are the steps for inserting the favicon.ico image in the HTML file
+	To add a favicon to your website, either save your favicon image to the root directory of your webserver, 
+	create a folder in the root directory called images, 
+	and save your favicon image in this folder. A common name for a favicon image is "favicon.ico".
+	Next, add a <link> element to your "index.html" file, after the <title> element, like this:
+====
+Example:
+	<title>My Page Title</title>
+	<link rel="icon" type="image/x-icon" href="/images/favicon.ico">

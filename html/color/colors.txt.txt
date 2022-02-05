@@ -1,0 +1,33 @@
+HTML Colors:
+	HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
+Background Color:
+	The <bgcolor> is the attribute to set the background color of an HTML element. 
+	when we apply  bgcolor  to the page the entire page will appear with particular color
+Example
+	<h1 style="background-color:DodgerBlue;">Hello World</h1>
+	<p style="background-color:Tomato;">Lorem ipsum...</p>
+=====
+Text Color:
+	we can set the clour to the text
+	when we give colour to the text the text will appear with particular color
+Example:
+	<h1 style="color:Tomato;">Hello World</h1>
+	<p style="color:DodgerBlue;">Lorem ipsum...</p>
+	<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
+=====
+Border Color:
+	we can give different colors to the borders
+Example
+	<h1 style="border:2px solid Tomato;">Hello World</h1>
+	<h1 style="border:2px solid DodgerBlue;">Hello World</h1>
+	<h1 style="border:2px solid Violet;">Hello World</h1>
+=====
+Color Values:
+	In HTML, colors can also be specified using RGB values, HEX values, HSL values, RGBA values, and HSLA values.
+	The following three <div> elements have their background color set with RGB, HEX, and HSL values
+Example
+	<h1 style="background-color:rgb(255, 99, 71);">...</h1>
+	<h1 style="background-color:#ff6347;">...</h1>
+	<h1 style="background-color:hsl(9, 100%, 64%);">...</h1>
+	<h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>
+	<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>

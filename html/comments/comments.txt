@@ -1,0 +1,14 @@
+HTML Comments:
+	HTML Comment Tag
+	You can add comments to your HTML source by using the following syntax:
+	<!-- Write your comments here -->
+how to Add Comments ?
+	With comments you can place notifications and reminders in your HTML code
+	Comments are not displayed in the web browser.
+What is a Hide Content ?
+	Comments can be used to hide content.
+	Which can be helpful if you hide content temporarily
+	when we give comment for particular sentence it will not display in web browser and it will hide the sentence.
+How to Hide Inline Content?
+	Comments can be used to hide parts in the middle of the HTML code
+	when we write content between start tag and end tag the comment will not display  in web page.

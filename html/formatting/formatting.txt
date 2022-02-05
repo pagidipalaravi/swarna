@@ -1,38 +1,38 @@
 HTML Text Formatting:
-HTML contains several elements for defining text with a special meaning.
-HTML Formatting Elements
-Formatting elements were designed to display special types of text:
+	HTML contains several elements for defining text with a special meaning.
+	HTML Formatting Elements
+	Formatting elements were designed to display special types of text:
 
 what is <b>  element ?    -
-  <b> is an Bold text                                               
-  The HTML <b> element defines bold text, without any extra importance.
+	<b> is an Bold text                                               
+	The HTML <b> element defines bold text, without any extra importance.
 what is <strong> element ?
-  <strong> tag is an Important text                                        
-  The HTML <strong> element defines text with strong importance. The content inside is typically displayed in bold.
+	<strong> tag is an Important text                                        
+	The HTML <strong> element defines text with strong importance. The content inside is typically displayed in bold.
 what is <i> element ?
-  <i> tag is an Italic text                                          
-  The HTML <i> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
+	<i> tag is an Italic text                                          
+	The HTML <i> element defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.
 what is <em> element ?
-  <em> is an  Emphasized text                                      
-  The HTML <em> element defines emphasized text. The content inside is typically displayed in italic.
+	<em> is an  Emphasized text                                      
+	The HTML <em> element defines emphasized text. The content inside is typically displayed in italic.
 what is  <mark> element ?
-  <mark> Marked text                                             
-  The HTML <mark> element defines text that should be marked or highlighted:
+	<mark> Marked text                                             
+	The HTML <mark> element defines text that should be marked or highlighted:
 what is <small> eleement?
-  <small> is an Smaller text                                           
-  The HTML <small> element defines smaller text:
-<what is <del> element ?
- <del> is an Deleted text                                           
- The TML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
+	<small> is an Smaller text                                           
+	The HTML <small> element defines smaller text:
+what is <del> element ?
+	<del> is an Deleted text                                           
+	The TML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text:
 what is <ins> element ?
-  <ins> is an Inserted text                                           
-  The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text:
+	<ins> is an Inserted text                                           
+	The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text:
 waht is a <sub>  elemengt ?
-  <sub>is an Subscript text                                          
-  The HTML <sub> element defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical formulas, like H2O:
+	<sub>is an Subscript text                                          
+	The HTML <sub> element defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical formulas, like H2O:
 what is <sup> element?
-  <sup> Superscript text                                       
-  The HTML <sup> element defines superscript text. 
-  Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font.
-  Superscript text can be used for footnotes, like WWW[1]:
+	<sup> Superscript text                                       
+	The HTML <sup> element defines superscript text. 
+	Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font.
+	Superscript text can be used for footnotes, like WWW[1]:
 
